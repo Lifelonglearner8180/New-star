@@ -49,3 +49,51 @@
     font-size: 1rem;
     font-weight: 600;
 }
+
+/*hero profile image design*/
+.profile-image{
+     width: 40%;
+     border-radius: 1rem;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+}
+
+/*title-description design*/
+
+.title-description{
+    width: 50%;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left:30%;
+    transform:translate( -50%,-50%);
+}
+
+.title-description h1{
+    font-size: 60px;
+
+}
+
+.title-description p{
+    margin: 10px 0 40px;
+    font-size: 15px;
+    color: white;
+}
+
+.title-description a{
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    border: 2px solid white;
+    background: transparent;
+    position: relative;
+    cursor: pointer;
+    padding: 10px 20px;
+    transition: 1s;
+}
+
+.title-description a:hover{
+    background-color: rgb(22, 99, 22);
+    border: 2px solid black;
+}
