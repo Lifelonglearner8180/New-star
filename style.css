@@ -136,14 +136,26 @@ nav{
     right: -300px;
     text-align: left;
     z-index: 1;
+    transition: 1s;
 }
 
 .nav-menu ul li{
     display: block;
     margin: 10px 0;
-
+}
+.nav-menu ul{
+    padding-left:20px ;
 }
 
+.profile-image{
+     width: 60%;
+     border-radius: 1rem;
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50% , -28%);
 }
+
+ }
     
     
