@@ -108,7 +108,7 @@ nav{
     width: 90%;
     color: rgb(255, 255, 255);
     position: absolute;
-    top: 50%;
+    top: 45%;
     left: 50%;
     transform:translate( -50% , -50%);
     text-align: center;
@@ -151,7 +151,7 @@ nav{
      width: 60%;
      border-radius: 1rem;
     position: absolute;
-    top: 80%;
+    top: 75%;
     left: 50%;
     transform: translate(-50% , -28%);
 }
