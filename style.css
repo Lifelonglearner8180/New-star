@@ -216,14 +216,17 @@ nav{
 /*  MY Services setion designing*/
 
 
- .myservices{
+ .myservices{ 
 
     width: 80%;
     margin: auto;
+    margin-top:50px;
     text-align: center;
-    padding-top: 100px;
+    padding-top: 50px;
     background-color: rgb(231, 130, 135);
  }
+
+  
 
 .service-card{
 
